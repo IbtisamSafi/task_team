@@ -1,4 +1,30 @@
 # BareBits Team
 #### 1.Reason for naming :
 ##### *MareBits 🐎 :
-###### At first, dealing with a horse or riding it is very difficult—you need patience. But once you get used to it,s things becomse easier and more enjoyable, and you start to realize how strong the bond between a human and a horse can be.
+###### At first, dealing with a horse or riding it is very difficult—you need patience.
+###### But once you get used to it,s things becomse easier and more enjoyable, and you start to realize how strong the bond between a human and a horse can be.
+###### It’s the same with this course or when learning something new. In the beginning,
+###### it’s tough and requires patience. But over time, God willing, it will become more fun and easier. And as we dive deeper, we’ll discover how strong the connection is between software engineering  concepts and the world of technology
+
+#### 2.Communication Rules :
+1.Mutual Respect
+   - Use a polite tone and avoid sarcasm or belittling others' efforts.
+2. Message Interaction
+   - Use emojis like 👍 or ✅ to confirm receipt or agreement instead of sending "Received".
+
+3. Appropriate Timing
+   - Avoid sending non-urgent messages late at night or during the team's time off.
+4. Message Clarity
+   - Format your messages with a title, bullet points, and links.
+   - Don’t send vague messages like “Can I ask a question?”—just ask directly
+5. Avoid sending messages to everyone without a specific purpose.
+- Use @channel or only for important matters.
+
+6. Keep options updated.
+- Inform your team of any delays or progress through the designated announcement channel.
+7. Respect personal space.
+- Avoid excessive direct messages (DMs) unless absolutely necessary.
+
+8. Respond to threads.
+
+- Use the "thread" feature instead of writing a direct reply to each message.
