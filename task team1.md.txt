@@ -43,7 +43,7 @@
 
  6. Clean Unit Tests: Write fast, independent, repeatable, self-validating, and timely (F.I.R.S.T) unit tests.
 
- #### 4.Branch: Purpose & Idea
+#### 4.Branch: Purpose & Idea
 
  What’s a Branch in Programming?
   ..... Branch: Purpose & Idea
